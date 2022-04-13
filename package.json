@@ -19,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "sync": "locize sync --path ./public/locales --project-id 8781d949-fb94-42b8-94cb-6394e98ff67c --api-key 9f5b72b3-7b8a-4db8-8ba1-2bbddd670800 --reference-language-only false"
   },
   "eslintConfig": {
     "extends": [
